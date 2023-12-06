@@ -66,6 +66,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para repo
 
 ## Colaboradores
 
--[@davirodriguesp](https://github.com/davirodriguesp)
--[@JPConti](https://github.com/JPConti)
--[@orodrigobraz](https://github.com/orodrigobraz)
+- [@davirodriguesp](https://github.com/davirodriguesp)
+- [@JPConti](https://github.com/JPConti)
+- [@orodrigobraz](https://github.com/orodrigobraz)
