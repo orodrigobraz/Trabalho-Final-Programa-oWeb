@@ -16,5 +16,11 @@
     "usuario": "usuario3",
     "email": "testeee@unifei.edu",
     "senha": "$2b$10$tgYvbNF6bGS5ukUXI3wuMO3uimuI3u8pZ5VWf5Xn2kdlUZ1pzvQ.e"
+  },
+  {
+    "id": 4,
+    "usuario": "teste",
+    "email": "davi.fire@hotmail.com",
+    "senha": "$2b$10$4KeE/jF4EnC4C/uN3eVJq.t2jchBGh7tGhjoY.qh5PbOZTRESFx/2"
   }
 ]
